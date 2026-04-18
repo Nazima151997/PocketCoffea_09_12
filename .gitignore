@@ -1,0 +1,5 @@
+
+# generated plots
+plots_log/
+**/plots_log/
+*.png
